@@ -45,10 +45,4 @@ Nahradí papírové přehledy a chatové domluvy jedním centralizovaným systé
 - **Platby:** hráč, částka, datum, stav platby (zaplaceno/neuhrazeno)
 - **Oznámení:** text, datum, odesílatel, příjemci
 
-## Možné budoucí rozšíření
-- Mobilní aplikace s notifikacemi o změnách tréninků.
-- Statistiky výkonů hráčů (body, asistence, fauly).
-- Modul pro evidenci klubového vybavení (dresy, míče).
-- Online platby členských příspěvků.
-
 *Projekt „BasketIS“ pomáhá klubům digitalizovat jejich činnost a přináší přehled, komunikaci a efektivitu do řízení sportovního týmu.*
